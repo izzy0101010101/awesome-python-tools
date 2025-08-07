@@ -1,0 +1,3 @@
+[mcp_servers.calc-opener]
+command = "open"
+args = ["-a", "Calculator"]
